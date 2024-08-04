@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Exiled184/Exiled184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated individual with over 5 years’ experience working in the finance sector to support customers, colleagues, and other stakeholders to provide solutions and deliver outcomes.
 
-Here are some ideas to get you started:
+I am seeking a Junior Software Engineering role where I can contribute my interpersonal skills and the technical skills I have acquired through formal training in frontend and backend development at General Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills/Tools:
+
+- HMTL
+- JavaScript
+- CSS
+- EJS
+- NodeJS
+- Express
+- Python
+- Django
+- Git
+- PostgresSQL
+- MongoDB
+- React
+
+- # Projects
+
+### Mastermind
+
+## HMTL | CSS | JavaScript
+
+Mastermind a code guessing game, where a secret coloured code is randomly generated and the payer is taksed to guess the secret code
+
+### Demo : https://exiled184.github.io/Project---Game---Mastermind/
