@@ -29,6 +29,7 @@ Mastermind a code guessing game, where a secret coloured code is randomly genera
 
 ### Demo : https://exiled184.github.io/Project---Game---Mastermind/
 
+![mastermind image](mastermind.png)
 
 ### Pokemon: My PC
 
@@ -37,9 +38,9 @@ Mastermind a code guessing game, where a secret coloured code is randomly genera
 Pokemon: My PC is a place where you can record and log your pokemon games and using CRUD functionality add/remove pokemon to your games.
 It is my attempt of doing a My PC in the Pokemon Game
 
-
 ### Demo : [Pokedex: My PC](https://pokedex-57b6.onrender.com/)
 
+![pokemon my pc image](/pokedex%20my%20pc.png)
 
 ### Iventory Management System
 
@@ -50,3 +51,4 @@ This was a collarborative project, teaching our team how to cooperate in a team 
 
 ### Demo : https://inventorymanager-78zc.onrender.com/
 
+![inventory management system image](/Inventory%20Management%20System.png)
