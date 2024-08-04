@@ -19,7 +19,7 @@ I am seeking a Junior Software Engineering role where I can contribute my interp
 - MongoDB
 - React
 
-- # Projects
+# Projects
 
 ### Mastermind
 
@@ -29,7 +29,7 @@ Mastermind a code guessing game, where a secret coloured code is randomly genera
 
 ### Demo : https://exiled184.github.io/Project---Game---Mastermind/
 
-![mastermind image](mastermind.png)
+![mastermind image](./Images/projects/mastermind.png)
 
 ### Pokemon: My PC
 
@@ -40,7 +40,7 @@ It is my attempt of doing a My PC in the Pokemon Game
 
 ### Demo : [Pokedex: My PC](https://pokedex-57b6.onrender.com/)
 
-![pokemon my pc image](/pokedex%20my%20pc.png)
+![pokemon my pc image](./Images/projects/pokedex%20my%20pc.png)
 
 ### Iventory Management System
 
@@ -51,4 +51,4 @@ This was a collarborative project, teaching our team how to cooperate in a team 
 
 ### Demo : https://inventorymanager-78zc.onrender.com/
 
-![inventory management system image](/Inventory%20Management%20System.png)
+![inventory management system image](./Images/projects/Inventory%20Management%20System.png)
